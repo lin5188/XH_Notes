@@ -172,3 +172,5 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 >使用URL名称能达到复用的目的，一般把全文所有的URL名称统一放在文章末尾，这样看起来比较干净。
 >>URL名称是我起的名字，不知道是否准确。囧。。
 
+
+
