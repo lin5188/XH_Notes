@@ -149,7 +149,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |#|语法|效果|
 |---|---|----
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
-|2|`![][围巾]`|![围巾][围巾5]
+|2|`![][地球]`|![][地球]
 
 注意例2的写法使用了**URL标识符**的形式，在[键接](#键接)一节有介绍。
 >在文末有foryou的定义：
@@ -172,5 +172,21 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 >使用URL名称能达到复用的目的，一般把全文所有的URL名称统一放在文章末尾，这样看起来比较干净。
 >>URL名称是我起的名字，不知道是否准确。囧。。
 
+#### 键接本仓库里的URL
 
+|语法|效果|
+|----|-----|
+|`[我的简介](/example/profile.md)`|[我的简介](/example/profile.md)|
+|`[example](./example)`|[example](./example)|
+
+#### 图片键接
+
+给图片加链接的本质是混合图片显示语法和普通的链接语法。普通的链接中[ ]内部是链接要显示的文本，而图片链接[ ]里面则是要显示的图片。
+直接混合两种语法当然可以，但是十分啰嗦，为此我们可以使用URL标识符的形式。
+
+|#|语法|效果
+|---|---|---
+|1|`[![weibo]()]`|
+
+[地球]：https://github.com/lin5188/XH_Notes/raw/master/DOC/others/icons/探索星球icon/地球.png
 
