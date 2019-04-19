@@ -16,7 +16,7 @@ Requests.md
 4. `r.encoding = 'utf-8' ` #更改字体库编码为utf-8
 5. `r.text` #打印网页内容
 
-![](DOC\Python\Python_Note\Reptiles\PNG\1.png)
+![](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Reptiles/PNG/1.png)
 
 Requests库的7个主要方法
 ---
