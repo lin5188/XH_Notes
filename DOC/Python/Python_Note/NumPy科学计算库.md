@@ -88,7 +88,7 @@ print(npSum())
 [1]:
 https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/1.png
 [2]:
-https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/1.png
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/2.png
 [3]:
 
 
