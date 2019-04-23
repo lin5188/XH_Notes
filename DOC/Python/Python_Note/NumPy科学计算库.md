@@ -68,7 +68,7 @@ print(npSum())
 ```
 ### ndarray实例
 
-![1](DOC\Python\Python_Note\图片\1.png)
+![1][2]
 
 |代码|代码说明|
 |:---:|:---
@@ -76,13 +76,18 @@ print(npSum())
 
 > ndarray对象的属性
 
- ![2](DOC\Python\Python_Note\图片\2.png)
+ ![2][2]
 
 实例：
 
-![3](DOC\Python\Python_Note\图片\3.png)
+![3][3]
 
  
- 
+ [1]:
+ https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/1.png
+ [2]:
+ https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/2.png
+ [3]:
+ https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/3.png
  
   
