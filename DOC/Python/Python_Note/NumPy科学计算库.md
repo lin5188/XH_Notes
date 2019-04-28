@@ -39,7 +39,7 @@ ndarray是一个多维数组对象，由两部分构成：
 
 例：计算A平方+B立方，其中，A和B是一维数组  
 
-- 普通写法
+- **普通写法**
 ```python
 def pySum():  
      a = [0,1,2,3,4]  
@@ -70,6 +70,7 @@ print(npSum())
 
 ![1][1]
 
+
 |代码|代码说明|
 |:---:|:---
 |np.array()|生成一个ndarray数组，ndarray在程序中的别名是：array
@@ -82,13 +83,16 @@ print(npSum())
 
 ![3][3]
 
+
+
+
  
+ [1]:
+ https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/1.png
+ [2]:
+ https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/2.png
+ [3]:
+ https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/3.png
  
- 
-[1]:
-https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/1.png
-[2]:
-https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/2.png
-[3]:
-https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/3.png
+
 
