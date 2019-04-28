@@ -3,7 +3,7 @@ SQLZOO答案
 
 ## 一
 ***
-> ![][1] __**SELECT  BASICS**__
+> ![][1] __*SELECT  BASICS*__
 ---
 1 . 
 ```Mysql
@@ -23,7 +23,7 @@ SELECT name,area FROM world
     WHERE area BETWEEN 200000 AND 250000;
 ```
 ---
-> ![][1] __**quiz**__  
+> ![][1] __*quiz*__  
 ---
 1 .
 ```Mysaql
@@ -70,7 +70,7 @@ SELECT name,population/area FROM world
 
 ## 二
 ___
-> ![][1] __**SELECT FROM WORLD**__
+> ![][1] __*SELECT FROM WORLD*__
 ___
 
 1 .
