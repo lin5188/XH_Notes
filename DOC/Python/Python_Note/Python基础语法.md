@@ -45,7 +45,7 @@ Python程序语法元素分析
 - Pyhton程序的输入输出
 -  "温度转换"代码分析
 
-### 程序的格式框架
+![][-1] 程序的格式框架
 
 ---
 
@@ -66,7 +66,7 @@ Python程序语法元素分析
     - 多行注释  
     以'''开头和结尾(双引号键）
 
-### 变量命名与保留字（关键字）
+![][-1] 变量命名与保留字（关键字）
 
 ---
 
@@ -85,7 +85,7 @@ Python程序语法元素分析
             assert、class、is、raise、with、yield、nonlocal
 
 
-### 数据类型  
+![][-1] 数据类型  
 
 ---
 
@@ -153,7 +153,7 @@ Python程序语法元素分析
 
     TempStr[-1] in ['C','c']判断前者是否与列表中某个元素相同
     
-### 语句与函数
+![][-1] 语句与函数
 
 ---
 
@@ -167,3 +167,6 @@ https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE
 
 [2]:
 https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/2.png
+
+[-1]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/others/icons/%E6%B0%B4%E6%9E%9Cicon/%E8%A5%BF%E7%93%9C-16.png
