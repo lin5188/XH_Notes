@@ -18,6 +18,14 @@
 * [用SQL分析电商平台在线业务](https://github.com/lin5188/XH_Notes/blob/master/DOC/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90/%E9%BB%91%E4%BA%94/%E9%BB%91%E4%BA%94%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.md)
 
 
+![书包][5]  DataBase
+===
+
+
+* [SQL学习笔记](https://github.com/lin5188/XH_Notes/blob/master/DOC/SQL/SQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
+* [SQLZOO答案](https://github.com/lin5188/XH_Notes/blob/master/DOC/SQL/SQLZOO%E7%AD%94%E6%A1%88.md)
+
+
 ![][2]  Python
 ===
 
@@ -25,6 +33,7 @@
 
 
 * [Python基础语法](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
+* [NumPy科学计算库](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/NumPy%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%BA%93.md)
 
 
 ### ![][4]  爬虫
@@ -32,8 +41,8 @@
 * [Requests](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Reptiles/Requests.md)
 
 
-![书包][5]  DataBase
-===
+
+
 
 
 [1]:
