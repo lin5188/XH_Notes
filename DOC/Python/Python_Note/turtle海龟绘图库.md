@@ -65,6 +65,8 @@ turtle绘图窗体布局
 --
 ![][1]
 ![][2]
+
+后两个参数省略，表示居中；（0,0）表示从屏幕左上角位置开始  
 需要设置窗体大小或位置值才用setup,一般时候可省略
 
 turtle空间坐标体系
@@ -169,6 +171,19 @@ ___
 
 ### ![][A1]Turtle画笔控制函数
 ___
+`turtle.penup()` `turtle.pendown()` `turtle.pensize()` `turtle.pencolor()`  
+  
+画笔操作后一直有效，一般成对出现
+- turtle.penup() 别名 `turtle.pu()  `  
+  抬起画笔，海龟在飞行
+- turtle.pendown()  别名  `turtle.pd()`   
+  落下画笔，海龟在爬行
+
+画笔设置后一直有效，直至下次重新设置
+- turtle.pensize(width) 别名 `turtle.width(width)`  
+  画笔宽度，海龟的腰围
+- turtle.pencolor(color)  color为颜色字符串或r,g,b值  
+  画笔颜色，海龟在涂装
 
 
 

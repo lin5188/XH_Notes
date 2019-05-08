@@ -23,7 +23,8 @@
 
 
 * [SQL学习笔记](https://github.com/lin5188/XH_Notes/blob/master/DOC/SQL/SQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
-* [SQLZOO答案](https://github.com/lin5188/XH_Notes/blob/master/DOC/SQL/SQLZOO%E7%AD%94%E6%A1%88.md)
+* [MySQL多表查询]()
+- [SQLZOO答案](https://github.com/lin5188/XH_Notes/blob/master/DOC/SQL/SQLZOO%E7%AD%94%E6%A1%88.md)
 
 
 ![][2]  Python
