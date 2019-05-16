@@ -24,7 +24,7 @@
 
 * [SQL学习笔记](https://github.com/lin5188/XH_Notes/blob/master/DOC/SQL/SQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0.md)
 * [MySQL多表查询]()
-- [SQLZOO答案](https://github.com/lin5188/XH_Notes/blob/master/DOC/SQL/SQLZOO%E7%AD%94%E6%A1%88.md)
+* [SQLZOO答案](https://github.com/lin5188/XH_Notes/blob/master/DOC/SQL/SQLZOO%E7%AD%94%E6%A1%88.md)
 
 
 ![][2]  Python
@@ -42,8 +42,8 @@
 
 ### ![][3]实例
 * [温度转换](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%AE%9E%E4%BE%8B/%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2.py)
-- [Turtle海龟绘图](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%AE%9E%E4%BE%8B/PythonDraw.py)
-- [天天向上力量](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%AE%9E%E4%BE%8B/DayDayUp.py)
+* [Turtle海龟绘图](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%AE%9E%E4%BE%8B/PythonDraw.py)
+* [天天向上力量](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%AE%9E%E4%BE%8B/DayDayUp.py)
 
 
 ### ![][4]  爬虫

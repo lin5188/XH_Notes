@@ -148,7 +148,7 @@ Python程序语法元素分析
 
 |函数格式|功能说明
 |---|---
-pow(x,y)|计算 <img src="http://www.forkosh.com/mathtex.cgi?  x^y"> 次方
+pow(x,y)|计算 <img src="http://www.forkosh.com/mathtex.cgi? \Large x^y">
 
 
 
@@ -220,8 +220,7 @@ pow(x,y)|计算 <img src="http://www.forkosh.com/mathtex.cgi?  x^y"> 次方
 - 函数采用`<函数名>(<参数>)`方式使用
 
 
-    eval(TempStr[0:-1]
-    
+    eval(TempStr[0:-1])
     # TempStr[0:-1]是参数
 
 ### ![][A1] Python程序的输入输出
