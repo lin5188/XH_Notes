@@ -193,19 +193,42 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 ## 数学公式语法
 ----------------
-方法一：使用MathJax引擎
-===
+### 方法一：使用Google Chart的服务器
+
+```html
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= 在此插入Latex公式" style="border:none;">
+```
+
+例子：
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
+
+### 方法二：使用forkosh服务器
+```html
+<img src="http://www.forkosh.com/mathtex.cgi? 在此处插入Latex公式">
+```
+
+例子：
+<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
+
+
+### 方法三：使用MathJax引擎
+$$公式$$表示行间公式，本来Tex中使用\(公式\)表示行内公式，但因为Markdown中\是转义字符，所以在Markdown中输入行内公式使用\\(公式\\)，如下代码：
+```html
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+```
 
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 \\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+
 
 > _**行内与独行**_
 
 - 行内公式：将公式插入到本行内，符号：`$公式内容$`，如：$xyz$
 - 独行公式：将公式插入到新的一行内，并且居中，符号：`$$公式内容$$`，如：$$xyz$$
 
+引用自：https://www.jianshu.com/p/e74eb43960a1
 
 
 [地球]：https://github.com/lin5188/XH_Notes/raw/master/DOC/others/icons/探索星球icon/地球.png

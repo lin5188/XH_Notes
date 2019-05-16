@@ -148,7 +148,7 @@ Python程序语法元素分析
 
 |函数格式|功能说明
 |---|---
-pow(x,y)|计算 <img src="http://www,forkosh.com/mathtex.cgi? \Large x^y"> 次方
+pow(x,y)|计算 <img src="http://www.forkosh.com/mathtex.cgi? \Large x^y"> 次方
 
 
 
