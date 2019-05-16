@@ -198,9 +198,9 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 ```html
 <img src="http://chart.googleapis.com/chart?cht=tx&chl= 在此插入Latex公式" style="border:none;">
 ```
-
+    <img src="http://chart.googleapis.com/chart?cht=tx&chl= \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
 例子：
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
 
 ### 方法二：使用forkosh服务器
 ```html
