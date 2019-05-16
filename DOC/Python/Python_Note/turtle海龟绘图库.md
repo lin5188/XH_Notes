@@ -182,8 +182,13 @@ ___
 画笔设置后一直有效，直至下次重新设置
 - turtle.pensize(width) 别名 `turtle.width(width)`  
   画笔宽度，海龟的腰围
-- turtle.pencolor(color)  color为颜色字符串或r,g,b值  
+- turtle.pencolor(color)  `color为颜色字符串或r,g,b值`  
   画笔颜色，海龟在涂装
+- pencolor(color)的color参数可以有三种形式
+    - 颜色字符串：turtle.pencolor("purole")
+    - RGB的小数值：turtle.pencolor(0.63,0.13,0.94)
+    - RGB的元组值：turtle.pencolor((0.63,0.13,0.94))
+
 
 
 

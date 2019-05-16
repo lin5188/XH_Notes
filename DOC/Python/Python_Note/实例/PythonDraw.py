@@ -90,7 +90,7 @@ turtle.left(135)
 turtle.fd(150)
 turtle.done()
 
-'''
+
 
 import turtle as t
 t.setup(500,350)
@@ -104,6 +104,32 @@ t.pendown()
 t.circle(-30,50)
 t.done()
 
+
+
+import turtle as t
+t.penup()
+t.fd(-250)
+t.pendown()
+t.pensize(5)
+t.pencolor("green")
+t.seth(-40)
+for i in range(4):
+    t.circle(40,80)
+    t.circle(-40,80)
+t.circle(40,80/2)
+t.fd(50)
+t.circle(16,180)
+t.fd(50 *2/3)
+t.done()
+'''
+
+import turtle as t
+t.fd(100)
+t.left(90)
+t.fd(100)
+t.left(45)
+t.fd(140)
+t.done()
 
 
 

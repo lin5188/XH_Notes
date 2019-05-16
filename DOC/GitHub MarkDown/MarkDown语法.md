@@ -39,6 +39,7 @@ MarkDown语法
 * [表格](#表格)
 * [表情](#表情)
 * [diff语法](#diff语法)
+* [数学公式语法](#数学公式语法)
 
  ##横线
 ----------------
@@ -187,6 +188,25 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 |#|语法|效果
 |---|---|---
 |1|`[![weibo]()]`|
+
+
+
+## 数学公式语法
+----------------
+方法一：使用MathJax引擎
+===
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
+\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+
+> _**行内与独行**_
+
+- 行内公式：将公式插入到本行内，符号：`$公式内容$`，如：$xyz$
+- 独行公式：将公式插入到新的一行内，并且居中，符号：`$$公式内容$$`，如：$$xyz$$
+
+
 
 [地球]：https://github.com/lin5188/XH_Notes/raw/master/DOC/others/icons/探索星球icon/地球.png
 
