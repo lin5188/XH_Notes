@@ -51,7 +51,7 @@ print("工作日的力量:{:.2f}".format(dayup))
 
 
 
-#问题3：工作日的力量
+#问题4：工作日的力量
 #一年365天，一周5个工作日，每天进步百分之一
 #一年365天，一周2个休息日，不进步也不退步
 
@@ -71,7 +71,7 @@ print("工作日的力量:{:.2f}".format(dayup))
 
 
 #问题5：工作日模式下要努力到什么水平，才能与每天努力百分之一一样呢？
-'''
+
 #DayDayUpQ5.py
 def dayup(df):
     dayup = 1
@@ -86,14 +86,51 @@ while dayup(dayfactor) < 37.87:
     dayfactor += 0.001
 print("工作日努力的参数{:.3f}".format(dayfactor))
 
-'''根据df参数计算工作日力量的函数
+#运行结果
+工作日努力的参数：0.019
+工作日模式，每天要努力到1.9%，相当于365模式每天1%的一倍
+'根据df参数计算工作日力量的函数
  参数不同，这段代码可共用
  def保留字用于定义函数
  while保留字判断条件是否成立
- 条件成立时循环执行'''
+ 条件成立时循环执行'
 
 
 
+#练习
+#DayDayUpQ5.py
 
+def dayUp(df):
+    dayup = 1
+    for i in range(365):
+        if i % 7 in [6,0]:
+            dayup = dayup * (1 - 0.01)
+        else:
+            dayup = dayup * (1 + df)
+    return dayup
+dayfactor = 0.001
+while dayUp(dayfactor) < 37.78:
+    dayfactor += 0.001
+print("工作日的力量是：{:.3f}".format(dayfactor))
+print(pow(1.019,365))
 
+dayup = 1
+for i in range(365):
+    if i % 7 in [6,0]:
+        dayup = dayup * (1 - 0.001)
+    else:
+        dayup = dayup * (1 + 0.019)
+print("工作日的力量：{:.3f}".format(dayup))
+
+dayup = 1
+for i in range(365):
+    if i % 7 in [6,0]:
+        dayup = dayup * (1 - 0.001)
+
+    else:
+        dayup = dayup * (1 + 0.011)
+print("工作日的力量：{:.3f}".format(dayup))
+'''
+
+"1 + 1 = 2" + chr(10004)
 

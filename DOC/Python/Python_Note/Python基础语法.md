@@ -99,18 +99,27 @@ Python程序语法元素分析
 
 ``10,011,101``
 
-#### 字符串
+#### 字符串类型及操作
 
 ----
 
 由0个或多个字符组成的有序字符序列  
 
+- 字符串有 2类共4种 表示方法    
+    - 单行字符串：有一对单引号或一对双引号表示    
     
-- 字符串有一对单引号或一对双引号表示    
-    
-    
-    "请输入带有符号的温度值：" 或者 'C'
-    
+    ```"请输入带有符号的温度值：" 或者 'C'```
+    - 多行字符串：有一对三单引号或三双引号表示
+    ```
+    '''python  
+                语言'''
+    ```            
+    - 如果希望在字符串中包含双引号或单引号呢？  
+    ``` '这里有个双引号(")'  或者 "这里有个单引号(')"``` 
+
+    - 如果希望在字符串中既包含双引号又包含单引号呢？  
+    ``` '''这里有个双引号(")又有个单引号(')'''``` 
+              
 - 字符串是字符的有序序列，可以对其中的字符进行索引
 
 
@@ -129,10 +138,64 @@ Python程序语法元素分析
    
     "请输入带有符号的温度值："[0]  或者  TempStr[-1]
 
-- 切片：返回字符串中一段字符子串  `<字符串>[M:N]`
+- 切片：返回字符串中一段字符子串  `<字符串>[M:N]`或`<字符串>[M:N:K]`根据步长对字符串切片
 
+    `"请输入带有符号的温度值："[1:3]  或者  TempStr[0:-1]`  
+    - <字符串>[M:N] ，M缺失表示至开头，N缺失表示至结尾  
+    `"0123456789"[:3]` 结果是`"012"`  
+    
+   -  <字符串>[M:N:K],根据步长K对字符串切片
+   `"0123456789"[1:8:2]` 结果是`"1357"`
+    - **字符串倒序输出**
+    "0123456789"[::-1] 结果是"9876543210"
+- 特殊字符
+    - 转义符\
+        - 转义符表达特定字符的本意  
+        `"这里有个双引号(\")"` 结果是 `这里有个双引号(")`  
+        -  转义符形成一些组合，表达一些不可打印的含义  
+        `\b回退，\n换行（光标移动到下行首），\r回车（光标移动到本行首）`     
+         
+- 字符串操作符  
+![][9]
 
-    "请输入带有符号的温度值："[1:3]  或者  TempStr[0:-1]
+- 例子：获取星期字符串  
+```python
+#WeekNamePrintV1.py
+weekStr = "星期一星期二星期三星期四星期五星期六星期日"
+weekID = eval(input("请输入星期数字（1-7）："))
+pos = (weekID - 1) * 3
+print(weekStr[pos:pos+3])
+```
+```python
+#WeekNamePrintV2.py
+weekStr = "一二三四五六日"
+weekID = eval(input("请输入星期数字（1-7）："))
+print("星期" + weekStr[weekID-1])
+```
+- **字符串处理函数**  
+![][10]
+![][11]
+![][12]  
+`end=""` 表示在同一行输出
+- **字符串处理方法**  
+一些以方法形式提供的字符串处理功能
+![][13]
+![][14]
+![][15]
+
+- **字符串类型的格式化**  
+格式化是对字符串进行格式表达的方法
+    - 字符串格式化使用`.format()`方法，用法如下：  
+    `<模板字符串>.format(<逗号分隔的参数>)`
+    - 槽
+    ![默认][16]
+    ![][17]
+        - 槽内部对格式化的配置方式  
+        `{<参数序号>:<格式控制标记>}`  
+        ![][18]
+        - 例如：  
+        ![][19]
+
 
 #### 数字类型及操作
 
@@ -187,9 +250,6 @@ Python程序语法元素分析
 ![][6]  
 ![][7]  
 ![][8]  
-
-
-
 
 
 #### 列表类型
@@ -339,16 +399,40 @@ https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE
 https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/2.png
 
 [3]：
-
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/3.png
 [4]：
-
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/4.png
 [5]:
-
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/5.png
 [6]:
-
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/6.png
 [7]:
-
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/7.png
 [8]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/8.png
+[9]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/9.png
+[10]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/10.png
+[11]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/11.png
+[12]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/12.png
+[13]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/13.png
+[14]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/14.png
+[15]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/15.png
+[16]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/16.png
+[17]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/17.png
+[18]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/18.png
+[19]:
+https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%9B%BE%E7%89%87/Python%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/19.png
+
 
 [A1]:
 https://github.com/lin5188/XH_Notes/blob/master/DOC/others/icons/%E6%B0%B4%E6%9E%9Cicon/%E8%A5%BF%E7%93%9C-16.png
