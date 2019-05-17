@@ -212,15 +212,14 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 
 ### 方法三：使用MathJax引擎
+Google浏览器应用商店中，搜索MathJax Plugin for Github，添加到扩展程序。
 $$公式$$表示行间公式，本来Tex中使用\(公式\)表示行内公式，但因为Markdown中\是转义字符，所以在Markdown中输入行内公式使用\\(公式\\)，如下代码：
 ```html
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ```
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
-\\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+\\( x=\frac{-b\pm\sqrt{b^2-4ac}}{2a} \\)
 
 
 > _**行内与独行**_
@@ -231,5 +230,7 @@ $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 引用自：https://www.jianshu.com/p/e74eb43960a1
 
 
-[地球]：https://github.com/lin5188/XH_Notes/raw/master/DOC/others/icons/探索星球icon/地球.png
+[地球]：
+https://github.com/lin5188/XH_Notes/blob/master/DOC/others/icons/%E6%8E%A2%E7%B4%A2%E6%98%9F%E7%90%83icon/%E6%98%9F%E6%9C%88-200.png
+
 
