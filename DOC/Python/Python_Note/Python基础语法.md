@@ -148,7 +148,8 @@ Python程序语法元素分析
 
 |函数格式|功能说明
 |---|---
-pow(x,y)|计算 <img src="http://www.forkosh.com/mathtex.cgi? \Large x^y">
+pow(x,y)|计算 x^y(x的y次方）
+
 
 
 
@@ -237,10 +238,10 @@ pow(x,y)|计算 <img src="http://www.forkosh.com/mathtex.cgi? \Large x^y">
 
 - 用户输入的信息以字符串类型保存在<变量>中
 
-
-    TempStr = input("请输入")
-    
-    # TempStr保存用户输入的信息
+`
+    TempStr = input("请输入")     
+    #TempStr保存用户输入的信息
+`
 
 #### _**输出函数：print()**_
 `以字符形式向控制台输出结果的函数`
