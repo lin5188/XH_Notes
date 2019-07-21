@@ -121,7 +121,7 @@ for i in range(365):
     else:
         dayup = dayup * (1 + 0.019)
 print("工作日的力量：{:.3f}".format(dayup))
-
+'''
 dayup = 1
 for i in range(365):
     if i % 7 in [6,0]:
@@ -130,7 +130,5 @@ for i in range(365):
     else:
         dayup = dayup * (1 + 0.011)
 print("工作日的力量：{:.3f}".format(dayup))
-'''
 
-"1 + 1 = 2" + chr(10004)
 
