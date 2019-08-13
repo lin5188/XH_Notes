@@ -35,16 +35,20 @@
 
 * [Python基础语法](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
 
+
 ###  ![][3]  库
 
 * [NumPy科学计算库](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/NumPy%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%BA%93.md)
 * [Turtle海龟绘图库](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/turtle%E6%B5%B7%E9%BE%9F%E7%BB%98%E5%9B%BE%E5%BA%93.md)
 * [Time时间库](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Time%E5%BA%93.md)
 
-### ![][3]实例
+
+### ![][3]实例代码
 * [温度转换](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%AE%9E%E4%BE%8B/%E6%B8%A9%E5%BA%A6%E8%BD%AC%E6%8D%A2.py)
 * [Turtle海龟绘图](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%AE%9E%E4%BE%8B/PythonDraw.py)
 * [天天向上力量](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%AE%9E%E4%BE%8B/DayDayUp.py)
+- [文本进度条](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%AE%9E%E4%BE%8B/TextProBar.py)
+- [爬取大学排名](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%AE%9E%E4%BE%8B/CrawUnivRanking.py)
 
 
 ### ![][4]  爬虫
