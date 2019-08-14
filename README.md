@@ -34,7 +34,13 @@
 
 
 * [Python基础语法](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Python%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95.md)
-
+* [用户输入input()和输出print()](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E7%94%A8%E6%88%B7%E8%BE%93%E5%85%A5input()%E5%92%8C%E8%BE%93%E5%87%BAprint().md)
+* [变量和数据类型](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%8F%98%E9%87%8F%E5%92%8C%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+* [列表](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%88%97%E8%A1%A8.md)
+* [if语句](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/if%E8%AF%AD%E5%8F%A5.md)
+* [while循环](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/while%E5%BE%AA%E7%8E%AF.md)
+* [函数](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%87%BD%E6%95%B0.md)
+* [字典和类](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%AD%97%E5%85%B8%E5%92%8C%E7%B1%BB.md)
 
 ###  ![][3]  库
 
