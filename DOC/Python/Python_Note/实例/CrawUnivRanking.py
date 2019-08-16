@@ -31,7 +31,7 @@ def printUnivList(num):
               format(chr(12288),u[0],u[1],u[2],eval(u[3],u[6]))
 
 def main(num):
-    url = 'http://www.zuihaodaxue.cn/zuihaodaxuepaiming2019.html'
+    url = "http://www.zuihaodaxue.cn/zuihaodaxuepaiming2019.html"
     html = getHTMLText(url)
     soup = BeautifulSoup(html,"html.parser")
     fillUnivList(soup)
