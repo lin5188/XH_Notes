@@ -42,6 +42,15 @@
 * [函数](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%87%BD%E6%95%B0.md)
 * [字典和类](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%AD%97%E5%85%B8%E5%92%8C%E7%B1%BB.md)
 
+###  ![][3]  啃书
+
+* [Python编程：从入门到实践]()
+* [Python语言及其应用]()
+* [Python网络数据采集]()
+* [精通Python爬虫框架scrapy]()
+* [Python数据入门与实践]()
+* [利用Python进行数据分析（第二版）]()
+
 ###  ![][3]  库
 
 * [NumPy科学计算库](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/NumPy%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97%E5%BA%93.md)
