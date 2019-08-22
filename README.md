@@ -48,7 +48,13 @@
 * [Python语言及其应用](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Python%E8%AF%AD%E8%A8%80%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8.md)
 * [Python网络数据采集](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Python%E7%BD%91%E7%BB%9C%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86.md)
 * [精通Python爬虫框架scrapy](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E7%88%AC%E8%99%AB%E6%A1%86%E6%9E%B6scrapy.md)
-* [Python爬虫开发与项目实战]()
+* Python爬虫开发与项目实战
+    * [IO编程](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Python%E7%88%AC%E8%99%AB%E5%BC%80%E5%8F%91%E4%B8%8E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/IO%E7%BC%96%E7%A8%8B.md)
+    * [web前端基础](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Python%E7%88%AC%E8%99%AB%E5%BC%80%E5%8F%91%E4%B8%8E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/Web%E5%89%8D%E7%AB%AF%E5%9F%BA%E7%A1%80.md)
+    * [HMTL解析](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Python%E7%88%AC%E8%99%AB%E5%BC%80%E5%8F%91%E4%B8%8E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/HTML%E8%A7%A3%E6%9E%90.md)
+    * [数据存储](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Python%E7%88%AC%E8%99%AB%E5%BC%80%E5%8F%91%E4%B8%8E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8.md)
+    * [进程和线程](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Python%E7%88%AC%E8%99%AB%E5%BC%80%E5%8F%91%E4%B8%8E%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/%E8%BF%9B%E7%A8%8B%E5%92%8C%E7%BA%BF%E7%A8%8B.md)
+
 * [Python数据入门与实践](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/Python%E6%95%B0%E6%8D%AE%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E8%B7%B5.md)
 * [利用Python进行数据分析（第二版）](https://github.com/lin5188/XH_Notes/blob/master/DOC/Python/Python_Note/%E5%88%A9%E7%94%A8Python%E8%BF%9B%E8%A1%8C%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%EF%BC%88%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89.md)
 
