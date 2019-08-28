@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="dac606ff-d560-4862-b2a2-d87ec9fc1a28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python爬虫开发与项目实战/IO编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python爬虫开发与项目实战/IO编程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python爬虫开发与项目实战/进程和线程.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python爬虫开发与项目实战/进程和线程.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yuchao_nianbao_PDF.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/实例/CrawUnivRanking.py" beforeDir="false" afterPath="$PROJECT_DIR$/实例/CrawUnivRanking.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实例/Python爬虫开发与项目实战代码.py" beforeDir="false" afterPath="$PROJECT_DIR$/实例/Python爬虫开发与项目实战代码.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/爬取新浪财经的股票信息.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,22 +20,28 @@
         <entry file="file://$PROJECT_DIR$/python网络爬虫与信息提取.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="695">
-                <caret line="163" lean-forward="true" selection-start-line="163" selection-end-line="163" />
+              <first_editor relative-caret-position="3749">
+                <caret line="163" selection-start-line="163" selection-end-line="163" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/实例/Python爬虫开发与项目实战代码.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
-              <folding>
-                <element signature="e#589#630#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="667">
+              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/实例/CrawUnivRanking.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="607">
+              <caret line="76" column="29" lean-forward="true" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -44,7 +51,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="322">
-                <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+                <caret line="14" selection-start-line="14" selection-end-line="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -55,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/../../../README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="414">
+              <first_editor relative-caret-position="1012">
                 <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
               </first_editor>
               <second_editor />
@@ -78,7 +85,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="483">
-                <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+                <caret line="21" selection-start-line="21" selection-end-line="21" />
               </first_editor>
               <second_editor />
             </state>
@@ -97,17 +104,18 @@
         <option value="$USER_HOME$/AppData/Local/Temp/实例代码.md.url" />
         <option value="$PROJECT_DIR$/实例/TextProBar.py" />
         <option value="$PROJECT_DIR$/实例代码.md" />
-        <option value="$PROJECT_DIR$/实例/CrawUnivRanking.py" />
         <option value="$PROJECT_DIR$/Python网络数据采集.md" />
         <option value="$PROJECT_DIR$/Python爬虫开发与项目实战/IO编程.md" />
         <option value="$PROJECT_DIR$/../../../README.md" />
         <option value="$PROJECT_DIR$/Python爬虫开发与项目实战/进程和线程.md" />
         <option value="$PROJECT_DIR$/实例/Python爬虫开发与项目实战代码.py" />
+        <option value="$PROJECT_DIR$/实例/CrawUnivRanking.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="960" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="960" />
     <option name="height" value="1046" />
   </component>
@@ -210,7 +218,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1046" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1064" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24945295" />
@@ -218,7 +226,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32312927" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32312927" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -272,11 +280,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python网络数据采集.md">
+    <entry file="file://$PROJECT_DIR$/python网络爬虫与信息提取.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="483">
-            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <first_editor relative-caret-position="3749">
+            <caret line="163" selection-start-line="163" selection-end-line="163" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/实例/Python爬虫开发与项目实战代码.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python爬虫开发与项目实战/进程和线程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="322">
+            <caret line="14" selection-start-line="14" selection-end-line="14" />
           </first_editor>
           <second_editor />
         </state>
@@ -285,7 +310,7 @@
     <entry file="file://$PROJECT_DIR$/../../../README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="414">
+          <first_editor relative-caret-position="1012">
             <caret line="44" column="15" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
           </first_editor>
           <second_editor />
@@ -300,43 +325,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python网络数据采集.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="483">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/实例/CrawUnivRanking.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding>
-            <element signature="e#25#40#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/python网络爬虫与信息提取.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="695">
-            <caret line="163" lean-forward="true" selection-start-line="163" selection-end-line="163" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python爬虫开发与项目实战/进程和线程.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="322">
-            <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/实例/Python爬虫开发与项目实战代码.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="58" column="27" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
-          <folding>
-            <element signature="e#589#630#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="607">
+          <caret line="76" column="29" lean-forward="true" selection-start-line="76" selection-start-column="29" selection-end-line="76" selection-end-column="29" />
         </state>
       </provider>
     </entry>
