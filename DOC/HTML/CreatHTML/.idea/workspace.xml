@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9358bbe-8167-4e8e-86bb-369a557ee0f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChaoHTML.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/XH_Notes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/XH_Notes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/Python_Note/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/Python_Note/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ChaoHTML.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="166" column="45" lean-forward="true" selection-start-line="166" selection-start-column="45" selection-end-line="166" selection-end-column="45" />
+              <folding>
+                <element signature="e#5414#5418#0" expanded="true" />
+                <element signature="e#5424#5428#0" expanded="true" />
+                <element signature="e#5697#5701#0" expanded="true" />
+                <element signature="e#5708#5712#0" expanded="true" />
+                <element signature="e#5803#5807#0" expanded="true" />
+                <element signature="e#5813#5817#0" expanded="true" />
+                <element signature="e#5971#5975#0" expanded="true" />
+                <element signature="e#5982#5986#0" expanded="true" />
+                <element signature="e#6074#6078#0" expanded="true" />
+                <element signature="e#6084#6088#0" expanded="true" />
+                <element signature="e#6224#6228#0" expanded="true" />
+                <element signature="e#6235#6239#0" expanded="true" />
+                <element signature="e#6375#6379#0" expanded="true" />
+                <element signature="e#6385#6389#0" expanded="true" />
+                <element signature="e#6525#6529#0" expanded="true" />
+                <element signature="e#6536#6540#0" expanded="true" />
+                <element signature="e#6626#6630#0" expanded="true" />
+                <element signature="e#6636#6640#0" expanded="true" />
+                <element signature="e#6776#6780#0" expanded="true" />
+                <element signature="e#6787#6791#0" expanded="true" />
+                <element signature="e#6875#6879#0" expanded="true" />
+                <element signature="e#6885#6889#0" expanded="true" />
+                <element signature="e#7026#7030#0" expanded="true" />
+                <element signature="e#7037#7041#0" expanded="true" />
+                <element signature="e#7130#7134#0" expanded="true" />
+                <element signature="e#7140#7144#0" expanded="true" />
+                <element signature="e#7281#7285#0" expanded="true" />
+                <element signature="e#7292#7296#0" expanded="true" />
+                <element signature="e#7386#7390#0" expanded="true" />
+                <element signature="e#7396#7400#0" expanded="true" />
+                <element signature="e#7542#7546#0" expanded="true" />
+                <element signature="e#7553#7557#0" expanded="true" />
+                <element signature="e#7682#7686#0" expanded="true" />
+                <element signature="e#7692#7696#0" expanded="true" />
+                <element signature="e#7826#7830#0" expanded="true" />
+                <element signature="e#7837#7841#0" expanded="true" />
+                <element signature="e#7924#7928#0" expanded="true" />
+                <element signature="e#7934#7938#0" expanded="true" />
+                <element signature="e#8070#8074#0" expanded="true" />
+                <element signature="e#8081#8085#0" expanded="true" />
+                <element signature="e#8215#8219#0" expanded="true" />
+                <element signature="e#8225#8229#0" expanded="true" />
+                <element signature="e#8366#8370#0" expanded="true" />
+                <element signature="e#8377#8381#0" expanded="true" />
+                <element signature="e#8465#8469#0" expanded="true" />
+                <element signature="e#8475#8479#0" expanded="true" />
+                <element signature="e#8610#8614#0" expanded="true" />
+                <element signature="e#8621#8625#0" expanded="true" />
+                <element signature="e#8889#8893#0" expanded="true" />
+                <element signature="e#8899#8903#0" expanded="true" />
+                <element signature="e#9038#9042#0" expanded="true" />
+                <element signature="e#9049#9053#0" expanded="true" />
+                <element signature="e#9152#9156#0" expanded="true" />
+                <element signature="e#9162#9166#0" expanded="true" />
+                <element signature="e#9307#9311#0" expanded="true" />
+                <element signature="e#9318#9322#0" expanded="true" />
+                <element signature="e#9421#9425#0" expanded="true" />
+                <element signature="e#9431#9435#0" expanded="true" />
+                <element signature="e#9569#9573#0" expanded="true" />
+                <element signature="e#9580#9584#0" expanded="true" />
+                <element signature="e#9683#9687#0" expanded="true" />
+                <element signature="e#9693#9697#0" expanded="true" />
+                <element signature="e#9832#9836#0" expanded="true" />
+                <element signature="e#9843#9847#0" expanded="true" />
+                <element signature="e#9945#9949#0" expanded="true" />
+                <element signature="e#9955#9959#0" expanded="true" />
+                <element signature="e#10094#10098#0" expanded="true" />
+                <element signature="e#10105#10109#0" expanded="true" />
+                <element signature="e#10720#10726#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ChaoHTML.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/CreatHTML.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CreatHTML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CreatHTML" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Python/Python_Note" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9358bbe-8167-4e8e-86bb-369a557ee0f6" name="Default Changelist" comment="" />
+      <created>1567095564902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567095564902</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ChaoHTML.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="166" column="45" lean-forward="true" selection-start-line="166" selection-start-column="45" selection-end-line="166" selection-end-column="45" />
+          <folding>
+            <element signature="e#5414#5418#0" expanded="true" />
+            <element signature="e#5424#5428#0" expanded="true" />
+            <element signature="e#5697#5701#0" expanded="true" />
+            <element signature="e#5708#5712#0" expanded="true" />
+            <element signature="e#5803#5807#0" expanded="true" />
+            <element signature="e#5813#5817#0" expanded="true" />
+            <element signature="e#5971#5975#0" expanded="true" />
+            <element signature="e#5982#5986#0" expanded="true" />
+            <element signature="e#6074#6078#0" expanded="true" />
+            <element signature="e#6084#6088#0" expanded="true" />
+            <element signature="e#6224#6228#0" expanded="true" />
+            <element signature="e#6235#6239#0" expanded="true" />
+            <element signature="e#6375#6379#0" expanded="true" />
+            <element signature="e#6385#6389#0" expanded="true" />
+            <element signature="e#6525#6529#0" expanded="true" />
+            <element signature="e#6536#6540#0" expanded="true" />
+            <element signature="e#6626#6630#0" expanded="true" />
+            <element signature="e#6636#6640#0" expanded="true" />
+            <element signature="e#6776#6780#0" expanded="true" />
+            <element signature="e#6787#6791#0" expanded="true" />
+            <element signature="e#6875#6879#0" expanded="true" />
+            <element signature="e#6885#6889#0" expanded="true" />
+            <element signature="e#7026#7030#0" expanded="true" />
+            <element signature="e#7037#7041#0" expanded="true" />
+            <element signature="e#7130#7134#0" expanded="true" />
+            <element signature="e#7140#7144#0" expanded="true" />
+            <element signature="e#7281#7285#0" expanded="true" />
+            <element signature="e#7292#7296#0" expanded="true" />
+            <element signature="e#7386#7390#0" expanded="true" />
+            <element signature="e#7396#7400#0" expanded="true" />
+            <element signature="e#7542#7546#0" expanded="true" />
+            <element signature="e#7553#7557#0" expanded="true" />
+            <element signature="e#7682#7686#0" expanded="true" />
+            <element signature="e#7692#7696#0" expanded="true" />
+            <element signature="e#7826#7830#0" expanded="true" />
+            <element signature="e#7837#7841#0" expanded="true" />
+            <element signature="e#7924#7928#0" expanded="true" />
+            <element signature="e#7934#7938#0" expanded="true" />
+            <element signature="e#8070#8074#0" expanded="true" />
+            <element signature="e#8081#8085#0" expanded="true" />
+            <element signature="e#8215#8219#0" expanded="true" />
+            <element signature="e#8225#8229#0" expanded="true" />
+            <element signature="e#8366#8370#0" expanded="true" />
+            <element signature="e#8377#8381#0" expanded="true" />
+            <element signature="e#8465#8469#0" expanded="true" />
+            <element signature="e#8475#8479#0" expanded="true" />
+            <element signature="e#8610#8614#0" expanded="true" />
+            <element signature="e#8621#8625#0" expanded="true" />
+            <element signature="e#8889#8893#0" expanded="true" />
+            <element signature="e#8899#8903#0" expanded="true" />
+            <element signature="e#9038#9042#0" expanded="true" />
+            <element signature="e#9049#9053#0" expanded="true" />
+            <element signature="e#9152#9156#0" expanded="true" />
+            <element signature="e#9162#9166#0" expanded="true" />
+            <element signature="e#9307#9311#0" expanded="true" />
+            <element signature="e#9318#9322#0" expanded="true" />
+            <element signature="e#9421#9425#0" expanded="true" />
+            <element signature="e#9431#9435#0" expanded="true" />
+            <element signature="e#9569#9573#0" expanded="true" />
+            <element signature="e#9580#9584#0" expanded="true" />
+            <element signature="e#9683#9687#0" expanded="true" />
+            <element signature="e#9693#9697#0" expanded="true" />
+            <element signature="e#9832#9836#0" expanded="true" />
+            <element signature="e#9843#9847#0" expanded="true" />
+            <element signature="e#9945#9949#0" expanded="true" />
+            <element signature="e#9955#9959#0" expanded="true" />
+            <element signature="e#10094#10098#0" expanded="true" />
+            <element signature="e#10105#10109#0" expanded="true" />
+            <element signature="e#10720#10726#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
