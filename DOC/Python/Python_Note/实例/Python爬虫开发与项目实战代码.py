@@ -20,12 +20,12 @@ if __name__ ==  '__main__':
     p.close()
     p.join() # 调用join()之前必须先调用close()
     print('All subprocesses done.')
-'''
+
 
 # 4.进程间通信
 # Queue例子
 
-'''
+
 
 from multiprocessing import Process,Queue
 import os,time,random
